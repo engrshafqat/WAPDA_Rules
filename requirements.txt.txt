@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+sentence-transformers
+faiss-cpu  # Use faiss-cpu for Railway (it doesn't have GPUs)
+groq
+requests
